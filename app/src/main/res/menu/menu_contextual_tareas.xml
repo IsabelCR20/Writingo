@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/mnu_edit_t" android:title="@string/mnuEditar"></item>
+    <item android:id="@+id/mnu_delete_t" android:title="@string/mnuEliminar"></item>
+    <item android:id="@+id/mnu_fin_t" android:title="@string/mnuFin"></item>
+</menu>

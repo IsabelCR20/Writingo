@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">WR¡T!NGO</string>
+    <string name="tab_text_1">Notas</string>
+    <string name="tab_text_2">Tareas</string>
+    <!-- Etiquetas -->
+    <string name="etitulo">Título</string>
+    <string name="eDesc">Descripción</string>
+    <string name="eAdjuntar">Adjuntar</string>
+    <string name="eRecos">Recordatorios</string>
+    <string name="eFecha">Fecha</string>
+    <string name="eHora">Hora</string>
+    <string name="eCumplimiento">Fecha y hora de entrega</string>
+
+    <string name="btnGuardar">Guardar</string>
+
+    <!-- Titulos de activities -->
+    <string name="tRegistroN">Registrar Nota</string>
+    <string name="tRegistroT">Registrar Tarea</string>
+    <string name="tColor">Selector de color</string>
+    
+    <!-- Opciones de los menu contextual -->
+    <string name="mnuEditar">Editar</string>
+    <string name="mnuEliminar">Eliminar</string>
+    <string name="mnuFin">Terminada</string>
+
+    <!-- Dialogos de confirmación -->
+    <string name="dBorrarNota">Borrar nota</string>
+    <string name="dBorrarTarea">Borrar tarea</string>
+    <string name="dMsnBorrar">¿Está seguro que desea eliminar la nota </string>
+    <string name="si">Sí</string>
+    <string name="no">Cancelar</string>
+
+</resources>
